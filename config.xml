@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config> 
+<type>
+<BROWSER>chrome</BROWSER>
+<URL>https://www.next.co.il/en</URL>
+<MAILADRESS>brc@gmail.com</MAILADRESS>
+<PASSWORD>brcbrc1</PASSWORD>
+</type>
+<type>
+<BROWSER>explorer</BROWSER>
+<URL>https://www.next.co.il/en</URL>
+<MAILADRESS>brch@gmail.com</MAILADRESS>
+<PASSWORD>brch4321</PASSWORD>
+</type>
+<type>
+<BROWSER>firefox</BROWSER>
+<URL>https://www.next.co.il/en</URL>
+<MAILADRESS>brch@gmail.com</MAILADRESS>
+<PASSWORD>brch4321</PASSWORD>
+</type>
+</config>
